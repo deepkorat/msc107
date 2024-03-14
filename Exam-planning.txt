@@ -1,0 +1,44 @@
+MATHS
+2 hour Functions:-
+	Hyperbolic
+	Polynomials
+	Trignometric
+	Exponential
+
+1 hour LIMIT:-
+
+2 hour Continuity:-
+
+Half hour Defination of Derivative and its graphical meaning
+
+2 hour differentiation:-
+	rules
+	chain rule
+	higher order derivative
+	Do some Sum - first order derivative or other.
+
+4 hour Integration
+	Defination & Geometric Interpretation
+	Indefinite & Definite integral & their Evaluation
+
+3 hour Optimization of functions:- 
+	Local Maxima & Minima functions
+	Saddle point
+	TAYLOR SERIES
+	Do some Sum - Taylor series expansion
+
+
+5 Hour UNIT 5:
+	
+
+########################################################################
+
+LA
+
+5 HOUR Eigen Values & Eigen Vectors
+
+5 HOUR Computational Complexity
+	time complexity
+
+PRACTICAL programs
+	

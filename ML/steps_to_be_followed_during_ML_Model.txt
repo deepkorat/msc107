@@ -1,0 +1,9 @@
+Preprocessing
+	remove null values
+	remove outliers
+	Normlaization/Standaridizatio if necessary
+Visualization
+Feature Selection
+Train Test split
+model training
+Metrices
